@@ -20,20 +20,28 @@ Instructions for custom data.
 - [Dynamic NeRF](https://github.com/gaochen315/DynamicNeRF)
 Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella
 
-# 2. Papers
+
+# 2. My Notebooks
+- Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. [[Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
+
+# 3. Papers
 ## 2024
 - Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. [[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
 - DaReNeRF: Direction-aware Representation for Dynamic Scenes, CVPR 2024
 - DynPoint: Dynamic Neural Point For View Synthesis, NeurIPS 2024.
-- Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI2024. [Code](https://github.com/seoha-kim/Sync-NeRF)
-- SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. [Code](https://github.com/yihua7/SC-GS)
+- Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI2024. [[Code](https://github.com/seoha-kim/Sync-NeRF)]
+- SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. [[Code](https://github.com/yihua7/SC-GS)]
+- InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds, [Project](https://instantsplat.github.io/)
+- GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation
+- Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes, CVPR 2024. [Project](https://otonari726.github.io/entitynerf/)
+- Ced-NeRF: A Compact and Efficient Method for Dynamic Neural Radiance Fields, AAAI 2024. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28138)
 
 ## 2023
 - DynIBaR: Neural Dynamic Image-Based Rendering, CVPR, 2023 [[Project Page](https://dynibar.github.io/)]
 - Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. [[Paper](https://arxiv.org/abs/2211.11610) | [Code](https://github.com/DSaurus/Tensor4D)]
 - HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). [Code](https://github.com/facebookresearch/hyperreel)
 - HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. [[Paper](https://caoang327.github.io/HexPlane/HexPlane.pdf) | [Project Page](https://caoang327.github.io/HexPlane/) | [Code](https://github.com/Caoang327/HexPlane)]
-- Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. [[Code](https://github.com/facebookresearch/robust-dynrf)]
+- Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. [[Code](https://github.com/facebookresearch/robust-dynrf) | [Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
 - V4D: Voxel for 4D Novel View Synthesis, Gan et. al., IEEE Transactions on Visualization and Computer Graphics, 2023. [[Paper](https://arxiv.org/abs/2205.14332) | [Code](https://github.com/GANWANSHUI/V4D)] (instructions for custom data)
 - Dynamic Mesh-Aware Radiance Fields, ICCV, 2023. [[Project Page](https://mesh-aware-rf.github.io/) | [Code](https://github.com/YilingQiao/DMRF)]
 - NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields, IEEE Transactions on Visualization and Computer Graphics, vol 29(5), 2023. [[Code](https://github.com/lsongx/nerfplayer-nerfstudio)]
