@@ -40,7 +40,10 @@ Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella
 - Shape of Motion: 4D Reconstruction from a Single Video, 2024. [[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/)]
 - MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds, 2024. [Project](https://www.cis.upenn.edu/~leijh/projects/mosca/)
 - Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos, 2024
-
+- Dynamic Gaussian Mesh: Consistent Mesh Reconstruction from Monocular Videos, 2024. [Project](https://www.liuisabella.com/DG-Mesh/)
+- DyNeRFactor: Temporally consistent intrinsic scene decomposition for dynamic NeRFs, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0097849324001195?dgcid=rss_sd_all)
+- DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing, CVPR 2024. [Project](https://showlab.github.io/DynVideo-E/)
+- Point-DynRF: Point-Based Dynamic Radiance Fields From a Monocular Video, WACV 2024. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Point-DynRF_Point-Based_Dynamic_Radiance_Fields_From_a_Monocular_Video_WACV_2024_paper.pdf)
 
 ## 2023
 - DynIBaR: Neural Dynamic Image-Based Rendering, CVPR, 2023 [[Project Page](https://dynibar.github.io/)]
