@@ -30,7 +30,6 @@ Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella
 - Sync-NeRF : Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024. [[Paper](https://arxiv.org/abs/2310.13356), [Code](https://github.com/seoha-kim/Sync-NeRF)]
 - Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, [[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS)]
 - DaReNeRF: Direction-aware Representation for Dynamic Scenes, CVPR 2024
-- DynPoint: Dynamic Neural Point For View Synthesis, NeurIPS 2024.
 - Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI2024. [[Code](https://github.com/seoha-kim/Sync-NeRF)]
 - SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. [[Code](https://github.com/yihua7/SC-GS)]
 - InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds, [Project](https://instantsplat.github.io/)
@@ -57,12 +56,14 @@ Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella
 - Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. [[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians)]
 - V4d: Voxel for 4d novel view synthesis, Gan et. al., IEEE Transactions on Visualization and Computer Graphics, 2023. [[Code](https://github.com/GANWANSHUI/V4D)]
 - MixVoxels: Mixed Neural Voxels for Fast Multi-view Video Synthesis, ICCV2023 Oral. [Code](https://github.com/fengres/mixvoxels)
+- DynPoint: Dynamic Neural Point For View Synthesis, NeurIPS 2023.
 
 ## 2022
 - Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time, CVPR 2022 [[Project Page](https://aoliao12138.github.io/FPO/)]
 - D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. [[Project Page](https://d2nerf.github.io/) | [Code](https://github.com/ChikaYan/d2nerf)]
 - Monocular Dynamic View Synthesis: A Reality Check, Gao et. al., Neurips 2022. [[Project Page](https://hangg7.com/dycheck/)]
 - TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. [[Project Page](https://jaminfong.cn/tineuvox/) | [Code](https://github.com/hustvl/TiNeuVox)]
+- Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time, CVPR 2022. [Project](https://aoliao12138.github.io/FPO/)
 
 ## 2021
 - Nerfies: Deformable Neural Radiance Fields, ICCV, 2021. [[Code](https://github.com/google/nerfies)] (instructions for **custom data**, this is the one everyone refering to)
