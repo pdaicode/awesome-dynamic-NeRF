@@ -1,5 +1,7 @@
 # Dynamic NeRF
 
+Verified: Papers listed with [+] have been verfied by myself or colleagues. The code is runnable. Please leave an issue if you need help on setting up.
+
 # 1. Datasets
 ## Custom Data Preparation
 - [Monocular Dynamic View Synthesis: A Reality Check](https://github.com/KAIR-BAIR/dycheck/blob/main/docs/RECORD3D_CAPTURE.md)
@@ -43,6 +45,12 @@ Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella
 - DyNeRFactor: Temporally consistent intrinsic scene decomposition for dynamic NeRFs, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0097849324001195?dgcid=rss_sd_all)
 - DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing, CVPR 2024. [Project](https://showlab.github.io/DynVideo-E/)
 - Point-DynRF: Point-Based Dynamic Radiance Fields From a Monocular Video, WACV 2024. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Point-DynRF_Point-Based_Dynamic_Radiance_Fields_From_a_Monocular_Video_WACV_2024_paper.pdf)
+
+- FPO++: efficient encoding and rendering of dynamic neural radiance fields by analyzing and enhancing Fourier PlenOctrees, The Visual Computer, 2024.
+- Evdnerf: Reconstructing event data with dynamic neural radiance fields, WACV 2024. [Code](https://github.com/anish-bhattacharya/EvDNeRF)
+- CTNeRF: Cross-time Transformer for dynamic neural radiance field from monocular video, Pattern Recognition, 2024. [Code](https://github.com/xingy038/ctnerf)
+- DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid, International Conference on 3D Vision (3DV) 2024. [Code](https://github.com/Mirgahney/dynsurf)
+- [+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians)
 
 ## 2023
 - DynIBaR: Neural Dynamic Image-Based Rendering, CVPR, 2023 [[Project Page](https://dynibar.github.io/)]
